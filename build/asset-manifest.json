@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/test/react-apexchart/static/css/main.b100e6da.chunk.css",
+    "main.js": "/test/react-apexchart/static/js/main.aa08aab3.chunk.js",
+    "main.js.map": "/test/react-apexchart/static/js/main.aa08aab3.chunk.js.map",
+    "runtime-main.js": "/test/react-apexchart/static/js/runtime-main.b7a65c4a.js",
+    "runtime-main.js.map": "/test/react-apexchart/static/js/runtime-main.b7a65c4a.js.map",
+    "static/js/2.8064c9cf.chunk.js": "/test/react-apexchart/static/js/2.8064c9cf.chunk.js",
+    "static/js/2.8064c9cf.chunk.js.map": "/test/react-apexchart/static/js/2.8064c9cf.chunk.js.map",
+    "index.html": "/test/react-apexchart/index.html",
+    "precache-manifest.377b05dfc1c6daee6186fce235deb6ca.js": "/test/react-apexchart/precache-manifest.377b05dfc1c6daee6186fce235deb6ca.js",
+    "service-worker.js": "/test/react-apexchart/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/test/react-apexchart/static/css/main.b100e6da.chunk.css.map"
+  }
+}
